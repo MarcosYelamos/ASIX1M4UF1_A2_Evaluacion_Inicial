@@ -22,11 +22,37 @@ Actividad 2 de la UF1, evaluacion inicial
 
 5. [Herramientas de Google :](https://www.google.com/intl/es-419/chrome/browser-tools/ "Enlace a las herramientas de Google")
 
-|Aplicaciones|Visto|
-|-----|------|
-|Google Calendar|✔|
-|Google Calendar|✔|
-|Google Calendar|✔|
-|Google Calendar|✔|
-|Google Calendar|✔|
-|...|...|
+    |Aplicaciones|Visto|
+    |-----|------|
+    |Google Calendar|✔|
+    |Google Calendar|✔|
+    |Google Calendar|✔|
+    |Google Calendar|✔|
+    |Google Calendar|✔|
+    |...|...|
+
+6. ¿Qué es ```HTML``` ?
+
+    __Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.__
+
+    ```
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+
+    </body>
+    </html>
+    ```
+7. Qué es ```CSS```?
+
+    __CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los elementos HTML deberían ser mostrados.__
+
+8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+    ![Esquema](./Img/captura_enunciado_8.PNG"Esquema del flujo de trabajo")
