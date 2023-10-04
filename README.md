@@ -55,4 +55,4 @@ Actividad 2 de la UF1, evaluacion inicial
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-    ![Esquema](./Img/captura_enunciado_8.PNG"Esquema del flujo de trabajo")
+    ![Esquema](./Img/captura_enunciado_8.PNG "Esquema del flujo de trabajo")
